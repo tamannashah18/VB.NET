@@ -1,0 +1,12 @@
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\bin\Debug\p9n.exe.config
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\bin\Debug\p9n.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\bin\Debug\p9n.pdb
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\bin\Debug\p9n.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.vbproj.AssemblyReference.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.Form1.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.Resources.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.vbproj.GenerateResource.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.vbproj.CoreCompileInputs.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p9n\obj\Debug\p9n.pdb

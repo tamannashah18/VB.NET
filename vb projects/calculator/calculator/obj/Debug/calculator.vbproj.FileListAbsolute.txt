@@ -1,0 +1,12 @@
+F:\Sem4_180\VB.NET\calculator\calculator\bin\Debug\calculator.exe.config
+F:\Sem4_180\VB.NET\calculator\calculator\bin\Debug\calculator.exe
+F:\Sem4_180\VB.NET\calculator\calculator\bin\Debug\calculator.pdb
+F:\Sem4_180\VB.NET\calculator\calculator\bin\Debug\calculator.xml
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.vbproj.AssemblyReference.cache
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.Form1.resources
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.Resources.resources
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.exe
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.xml
+F:\Sem4_180\VB.NET\calculator\calculator\obj\Debug\calculator.pdb

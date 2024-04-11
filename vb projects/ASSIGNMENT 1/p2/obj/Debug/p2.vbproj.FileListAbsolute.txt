@@ -1,0 +1,12 @@
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\bin\Debug\p2.exe.config
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\bin\Debug\p2.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\bin\Debug\p2.pdb
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\bin\Debug\p2.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.vbproj.AssemblyReference.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.Form1.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.Resources.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.vbproj.GenerateResource.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.vbproj.CoreCompileInputs.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p2\obj\Debug\p2.pdb

@@ -1,0 +1,12 @@
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\bin\Debug\p3.exe.config
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\bin\Debug\p3.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\bin\Debug\p3.pdb
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\bin\Debug\p3.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.vbproj.AssemblyReference.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.Form1.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.Resources.resources
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.vbproj.GenerateResource.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.vbproj.CoreCompileInputs.cache
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.exe
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.xml
+F:\Sem4_180\VB.NET\ASSIGNMENT 1\p3\obj\Debug\p3.pdb
